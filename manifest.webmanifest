@@ -1,1 +1,1 @@
-{"name":"3ЭС5К — Помощник локомотивной бригады","short_name":"3ЭС5К","start_url":"./index.html","display":"standalone","background_color":"#09111f","theme_color":"#0b1424","lang":"ru","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
+{"name": "3ЭС5К — Помощник бригады 3D", "short_name": "3ЭС5К", "start_url": "./", "scope": "./", "display": "standalone", "background_color": "#09111d", "theme_color": "#0b1220", "icons": [{"src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]}
